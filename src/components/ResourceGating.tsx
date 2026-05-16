@@ -63,6 +63,7 @@ export function ResourceGating() {
         <label className="text-[10px] font-bold text-zinc-500 uppercase tracking-[0.2em] ml-1">
           Select Deployment Target
         </label>
+        {/* Explicitly cast value as string to fix Vercel TS build error */}
         <Select onValueChange={(value: string) => {
           setSelectedId(value);
           setStep1Status("locked");
