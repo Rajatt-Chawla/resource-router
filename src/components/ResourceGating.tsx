@@ -49,7 +49,7 @@ export function ResourceGating() {
         <p className="text-[10px] text-zinc-500 uppercase tracking-widest">Select a resource to unlock</p>
       </div>
 
-      <Select onValueChange={(v: string) => {
+      <Select onValueChange={(v: string | null) => {
         setSelectedId(v);
         setVerifying(false);
         setCountdown(10);
