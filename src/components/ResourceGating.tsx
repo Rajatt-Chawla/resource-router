@@ -31,6 +31,11 @@ import {
 
 const resources = [
   {
+    id: "ultimate-ai-portfolio-guide",
+    label: "ULTIMATE AI PORTFOLIO DEPLOYMENT GUIDE",
+    link: "https://drive.google.com/file/d/1WjT2StHD8kP3zHp1tIDHvG-VsjSBYYBg/view?usp=sharing",
+  },
+  {
     id: "forage-internship",
     label: "Forage Virtual Internship",
     link: "https://www.theforage.com/virtual-internships",
