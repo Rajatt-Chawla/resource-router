@@ -36,9 +36,9 @@ const resources = [
     link: "https://docs.google.com/document/d/1FfMp3m9WCUtrsmBu0geCzfDPS_ymn1Onxt6tavkYSlQ/edit?usp=sharing",
   },
   {
-    id: "ultimate-ai-portfolio-guide",
-    label: "ULTIMATE AI PORTFOLIO DEPLOYMENT GUIDE",
-    link: "https://drive.google.com/file/d/1WjT2StHD8kP3zHp1tIDHvG-VsjSBYYBg/view?usp=sharing",
+    id: "elite-developer-portfolio-guide",
+    label: "The 2026 Elite Developer Portfolio Guide",
+    link: "https://docs.google.com/document/d/1bBZuChG01_cdrDes6SmYwIji_6-39NG6vHRBUeJnGGI/edit?usp=sharing",
   },
   {
     id: "forage-internship",
