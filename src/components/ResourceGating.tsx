@@ -44,6 +44,11 @@ const resources = [
     id: "forage-internship",
     label: "Forage Virtual Internship",
     link: "https://www.theforage.com/virtual-internships",
+  },
+  {
+    id: "ai-agent-setup-guide",
+    label: "AI Agent Setup Guide: VS Code + Cline",
+    link: "https://docs.google.com/document/d/1WzKQGxbKoWBC_PCuGXI-xQMxd2byZG53fYnr848JYdg/edit?usp=sharing",
   }
 ];
 
