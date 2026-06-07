@@ -49,6 +49,11 @@ const resources = [
     id: "ai-agent-setup-guide",
     label: "AI Agent Setup Guide: VS Code + Cline",
     link: "https://docs.google.com/document/d/1WzKQGxbKoWBC_PCuGXI-xQMxd2byZG53fYnr848JYdg/edit?usp=sharing",
+  },
+  {
+    id: "fresher-project-ideas",
+    label: "2026 Fresher Project Ideas",
+    link: "https://docs.google.com/document/d/1Eit6zaXbUlkGMy93leLZ5AAne2q7Ab5UuJoo7jW5YO0/edit?usp=sharing",
   }
 ];
 
