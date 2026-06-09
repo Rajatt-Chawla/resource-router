@@ -54,6 +54,11 @@ const resources = [
     id: "fresher-project-ideas",
     label: "2026 Fresher Project Ideas",
     link: "https://docs.google.com/document/d/1Eit6zaXbUlkGMy93leLZ5AAne2q7Ab5UuJoo7jW5YO0/edit?usp=sharing",
+  },
+  {
+    id: "bounties-challenge",
+    label: "bounties challenge",
+    link: "https://algora.io/coollabsio/bounties/community",
   }
 ];
 
