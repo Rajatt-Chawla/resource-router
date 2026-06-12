@@ -59,6 +59,11 @@ const resources = [
     id: "bounties-challenge",
     label: "bounties challenge",
     link: "https://algora.io/coollabsio/bounties/community",
+  },
+  {
+    id: "ultimate-tech-toolkit",
+    label: "The Ultimate Tech Toolkit for College Freshers (2026 Guide)",
+    link: "https://docs.google.com/document/d/1O9rH_TJ1PjU1fy89bFn7_zB90Za93VmLnbSP9WH7KJc/edit?usp=sharing",
   }
 ];
 
